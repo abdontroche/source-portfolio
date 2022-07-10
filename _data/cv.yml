@@ -80,16 +80,36 @@
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Molecular Biology.
       items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Bioinformatics.
+        - Data science.
+    - title: Computational Design.
       items:
-        - Description 1.
-        - Description 2.
+        - Parametric design.
+        - Generative design.
+    - title: Aditive Manufacturing.
+      items:
+        - House 3D printing.
+        - Metal 3D printing.    
+    - title: Asistive tecnologies.
+      items:
+        - Prostethis and implants design.
+        - Develop asistive hardware.  
+    - title: EV.
+      items:
+        - Electric Motors.
+        - Battery systems.   
+    - title: Material research.
+      items:
+        - Biomaterial.
+        - Composites.   
+        - title: Digital Manufacturing.
+      items:
+        - Digital fabrication with metalic materials.
+        - Digital fabrication with composites.            
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> Farming, Digital Art, Electronic Scultures, Metal Scultures.
