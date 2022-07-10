@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <a href='https://www.linkedin.com/in/abdontroche/'>LinkedIn</a>. <a href='https://www.facebook.com/abdon.troche/'>Facebook</a>. <a href='https://www.instagram.com/abdontroche/'>Instagram</a>. <a href='#'>GitHub</a>. <a href='https://grabcad.com/abdon.troche-1'>GrabCAD</a>.
 
